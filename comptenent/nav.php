@@ -12,6 +12,9 @@
           <li class="nav-item">
              <a class="nav-link active" aria-current="page" href="reservation.php">Reservation</a>
           </li> 
+          <li class="nav-item">
+             <a class="nav-link active" aria-current="page" href="Carte.php">Carte</a>
+          </li> 
             <li class="nav-item">
             <a class="nav-link" href="#"></a>
             </li>
@@ -32,34 +35,22 @@
                   Explorer
              </a>
     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-         <li><a class="dropdown-item" href="contact.php">Contact</a></li>
-         <li><a class="dropdown-item" href="explorerh.php"></a></li>
-          <li><a class="dropdown-item" href=""></a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="Carte.php">Carte</a></li>
-          <li><a class="dropdown-item" href="libre appartement.php">Libre appartement</a></li>
-          <li><a class="dropdown-item" href="index.php">Tops Hotels</a></li>
-          <li><a class="dropdown-item" href="recommandation.php"></a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="planifie votre voyage.php">planifie votre voyage</a></li>
-          <li><a class="dropdown-item" href="Offres du moment.php">Offre du moment</a></li>
-          <li><a class="dropdown-item" href="Mieux note.php"></a></li>
-          <li><a class="dropdown-item" href="about.php">Idees a explorer</a></li>
-          
-          
-   </ul>
-   
-        
-    
-         </li>
+                    <li><a class="dropdown-item" href="contact.php">Contact</a></li>
+                    <li><a class="dropdown-item" href="galerie.php">Galerie</a></li>
+                    <li><a class="dropdown-item" href="Offres du moment.php">Offre du moment</a></li>
+                    <li><a class="dropdown-item" href="Mieux note.php"></a></li>
+                    <li><a class="dropdown-item" href="idees aexplorer.php">Idees a explorer</a></li>  
+        </ul>
+ 
+          </li>
           <li class="nav-item">
-          <a class="nav-link disabled" href="disabled.html" tabindex="-1" aria-disabled="true">Disabled</a>
+          <a class="nav-link disabled" href="Carte.php" tabindex="-1" aria-disabled="true"></a>
           </li>
   </ul>
      <form class="d-flex">
      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
      <button class="btn btn-outline-success" type="submit">Search</button>
      </form>
-  </d
+  </div>
  </div>
 </nav>

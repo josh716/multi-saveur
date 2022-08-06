@@ -49,7 +49,7 @@
     </div>
   <div class="form-row">
   <div class="form-group col-md-4">
-      <label for="inputState">Aulte</label>
+      <label for="inputState">Adulte</label>
       <select id="inputState" class="form-control">
       <option selected>1</option>
               <option value="1">2</option>
@@ -72,7 +72,7 @@
     </div>
   </div>
      <hr text-center>
-         <button type="submit" class="btn btn-primary"> verifier votre disponibilite</button>
+         <button type="submit" class="btn btn-primary"> Verifier votre disponibilite</button>
    </form>
   </div>
   <div class="col-lg-6">
@@ -97,7 +97,8 @@
                             <input  class="form-control" style="height: 60px; width: 450px;" type="text" placeholder="Note">
 
                         </p>
-                        <button type="submit" class="btn btn-primary"> Reservez maintenant</button>
+                        <hr>
+                        <button type="submit" class="btn btn-primary"> Reserver maintenant</button>
       </form>
   </div>
 </div>

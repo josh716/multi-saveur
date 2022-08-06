@@ -15,7 +15,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 text-danger">
-        <h1>MULTI-SAVEUR</h1>
+          <h1>MULTI-SAVEUR</h1>
       </div>
     </div>
     <div class="row">
@@ -31,29 +31,29 @@
         <form action="">
           <div class="input-group mb-3">
             <select class="custom-select" id="inputGroupSelect01">
-              <option selected>Destination</option>
-              <option value="1">Lubumashi</option>
-              <option value="2">Kolwezi</option>
-              <option value="3">Likasi</option>
-              <option value="4">Kasumbalesa</option>
-              <option value="5">Kinshasa</option>
+                    <option selected>Destination</option>
+                    <option value="1">Lubumashi</option>
+                    <option value="2">Kolwezi</option>
+                    <option value="3">Likasi</option>
+                    <option value="4">Kasumbalesa</option>
+                     <option value="5">Kinshasa</option>
             </select>
           </div>
         </form>
       </div>
       <div class="col-lg-3" style="margin-right: 5px;">
         <form action="">
-          <p> <input class="form-control" style="height: 40px; width: 250px;" type="date" placeholder=""></p>
+             <p> <input class="form-control" style="height: 40px; width: 250px;" type="date" placeholder=""></p>
         </form>
       </div>
       <div class="col-lg-3" style="margin-right: 5px;">
         <form action="">
-          <p> <input class="form-control" style="height: 40px; width: 250px;" type="date" placeholder=""></p>
+              <p> <input class="form-control" style="height: 40px; width: 250px;" type="date" placeholder=""></p>
         </form>
       </div>
       <div class="col-lg-2">
         <form action="">
-          <p> <button class="btn btn-primary">Connexion <span class="glyphicon glyphicon-search-image"></span></span></button></p>
+            <p> <button class="btn btn-primary">Connexion <span class="glyphicon glyphicon-search-image"></span></span></button></p>
         </form>
       </div>
     </div>
@@ -76,7 +76,7 @@
             <img class="card-img-top" src="img/<?= $i ?>.jpeg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">sublime hotel</h5>
-              <p class="card-text"><img src="img/m23.jpeg" height="20px" alt=""></p>
+                  <p class="card-text"><img src="img/m23.jpeg" height="20px" alt=""></p>
               <a href="details.php?idhotel=<?= $i ?>" class="btn btn-primary" style="height: 40px; width: 250px;">Details</a>
             </div>
           </div>
@@ -91,11 +91,11 @@
           <div class="card-body">
             <h5 class="card-title">Nos Service</h5>
             <p class="card-text">
-              Lorem ipsum dolor sit amet,
-              consectetur adipisicing elit.
-              Odio qui cumque quas illo quibusdam corrupti molestiae sit impedit, illum
-              ipsam quaerat facere nulla sint
-              corporis maxime sed, aliquam vero quo.</p>
+                    Lorem ipsum dolor sit amet,
+                    consectetur adipisicing elit.
+                    Odio qui cumque quas illo quibusdam corrupti molestiae sit impedit, illum
+                    ipsam quaerat facere nulla sint
+                    corporis maxime sed, aliquam vero quo.</p>
             <p class="card-text">
               <small class="text-muted">
                 MULTI-SAVEUR.COM
@@ -106,36 +106,38 @@
       </div>
       <div class="col-lg-6">
         <legend>Avis</legend>
-        <p> Lorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatis
-          voluptatibus architecto. Quia odio perferendis fugiat
-          nemo ut? Voluptates, numquam! Lorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatis
-          voluptatibus architecto. Quia odio perferendis fugiat
-          nemo ut? Voluptates, numquamLorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatis
-          voluptatibus architecto. Quia odio perferendis fugiat
-          nemo ut? Voluptates, numquamLorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatis
-          voluptatibus architecto. Quia odio perferendis fugiat
-          nemo ut? Voluptates, numquam
-        </p>
+                <p> 
+                  Lorem ipsum dolor sit amet, consectetur adipisicing
+                  elit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                  velit laudantium ut veritatis
+                  voluptatibus architecto. Quia odio perferendis fugiat
+                  nemo ut? Voluptates, numquam! Lorem ipsum dolor sit amet, consectetur adipisicing
+                  elit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                  velit laudantium ut veritatis
+                  voluptatibus architecto. Quia odio perferendis fugiat
+                  nemo ut? Voluptates, numquamLorem ipsum dolor sit amet, consectetur adipisicing
+                  elit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                  velit laudantium ut veritatis
+                  voluptatibus architecto. Quia odio perferendis fugiat
+                  nemo ut? Voluptates, numquamLorem ipsum dolor sit amet, consectetur adipisicing
+                  elit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                  velit laudantium ut veritatis
+                  voluptatibus architecto. Quia odio perferendis fugiat
+                  nemo ut? Voluptates, numquam
+            </p>
         <legend>Nos Avantage</legend>
-        <p> lit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatis
-          voluptatibus architecto. Quia odio perferendis fugiat
-          nemo ut? Voluptates, numquamLorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritati
-          elit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatielit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatielit. Eveniet ea dolorem illo incidunt, eum repellat earum
-          velit laudantium ut veritatielit. Eveniet ea dolorem illo 
-        </p>
+          <p> 
+                lit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                velit laudantium ut veritatis
+                voluptatibus architecto. Quia odio perferendis fugiat
+                nemo ut? Voluptates, numquamLorem ipsum dolor sit amet, consectetur adipisicing
+                elit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                velit laudantium ut veritati
+                elit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                velit laudantium ut veritatielit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                velit laudantium ut veritatielit. Eveniet ea dolorem illo incidunt, eum repellat earum
+                velit laudantium ut veritatielit. Eveniet ea dolorem illo 
+          </p>
       </div>
     </div>
     <hr>
@@ -143,24 +145,24 @@
       <div class="col-lg-12 text-center">
         <div class="jumbotron jumbotron-fluid">
           <div class="container">
-            <p class="lead">
-              <img src="img/kymb.png" height="150px" width="150px" alt="">
-            </p>
-            <h4>Beneficiez des meilleurs services en vous <br> inscrivants sur MULTI-SAVEUR</h4>
-            <br>
+             <p class="lead">
+                  <img src="img/kymb.png" height="150px" width="150px" alt="">
+             </p>
+                 <h4>Beneficiez des meilleurs services en vous <br> inscrivants sur MULTI-SAVEUR</h4>
+              <br>
             <p class="card-text">
-              N’attendez pas encore longtemps, inscrivez-vous et
-              rejoingnez notre communauté de plus de 5000 membres inscrits,
-            </p>
+                  N’attendez pas encore longtemps, inscrivez-vous et
+                  rejoingnez notre communauté de plus de 5000 membres inscrits,
+             </p>
             <br>
             <button class="btn btn-primary">Inscriver vous maintenent</button>
           </div>
         </div>
         <hr>
         <!-- footer-->
-        <div class="row">
-          <div class="col-lg-12">
-            <?php require "comptenent/footer.php"; ?>
+       <div class="row">
+         <div class="col-lg-12">
+                 <?php require "comptenent/footer.php"; ?>
           </div>
         </div>
       </div>

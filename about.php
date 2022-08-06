@@ -19,6 +19,20 @@
             </div> 
           </div>
           <hr>
+          <div class="row">
+          <div class="row">
+             <div class="col-lg-4">
+                  <img src="img/45450113.jpeg"  alt="">
+             </div>
+             <div class="col-lg-4">
+                 <img src="img/45450090.jpeg"  alt="">
+             </div>
+             <div class="col-lg-4">
+                   <img src="img/45450068.jpeg"  alt="">
+             </div>
+            </div>
+          </div>
+          <hr>
          <div class="row">
          <div class="col-lg-6">
             <legend>Avis</legend>
@@ -65,8 +79,14 @@
             </div>
           <hr>
             <div class="row">
-             <div class="col-lg-12">
-              <img src="img/WhatsApp Image 2022-02-21 at 18.28.14.jpeg" height="500px" width="1100px" alt="">
+             <div class="col-lg-4">
+                  <img src="img/45450073.jpeg"  alt="">
+             </div>
+             <div class="col-lg-4">
+                 <img src="img/45450066.jpeg"  alt="">
+             </div>
+             <div class="col-lg-4">
+                   <img src="img/45450058.jpeg"  alt="">
              </div>
             </div>
             <hr>

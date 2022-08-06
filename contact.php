@@ -25,105 +25,68 @@
             <div class="row">
               <? require "comptenent/nav.php"; ?>
             </div>
-            <hr>
-             <div class="row">
-                <div class="col-lg-12 text-danger">
-                </div>
+            <br>
+            <div class="row">
+             <div class="col-lg-12" style="background-image: url('img/avatarDefault.jpg') ;">
+                <h2 class="text-black">
+                    <center>
+                         CONTACTEZ-NOUS 
+                    </center>
+               </h2>
+               <p>
+                      <center>
+                        Remplissez le formulaire à le section suivante pour nous faire parvenir votre suggestion.
+                      </center>
+               </p>
+             </div>
             </div>
             <hr>
-            <div class="row">
-                <div class="col-lg-12">
-                 <h3 class="text-primary"><i>Contacter nous</i></h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <form action="">
+    <div class="row">
+            <div class="col-lg-4">
+                <legend>AVANT DE NOUS CONTACTER</legend>
                         <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Votre courriel">
+                            Pour nous faire parvenir votre suggestion, veuillez 
+                            remplir tous les champs obligatoires sur le formulaire.
                         </p>
+                <legend>CONTACT INFORMATION</legend>
+                <ul>
+                        <li>
+                            34, Av Mwepu, C/L'shi Haut-Katanga, R.D.Congo
+                        </li>
 
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Nom">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Prenom">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Fonction">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Adresse">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Ville">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Telphone">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Civilite">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 40px; width: 450px;" type="text" placeholder="Fax">
-                        </p>
-
-                        <p>
-                            <input  class="form-control" style="height: 150px; width: 450px;" type="text" placeholder="Message">
-                        </p>
-
+                        <li>
+                                0972205224
+                        </li>
                         
-                    </form>
-                </div>
+                        <li>
+                            Ouvert tous les jours 24/24h
+                        </li>
+                </ul>
+                      <legend>RÉSEAUX SOCIAUX</legend>
+        </div>
+     <div class="col-lg-8">
+            <legend>veuillez remplir le formulaire.</legend>
+                <form>
+            <div class="form-group">
+                   <input type="text" class="form-control" style="height: 40px; width: 700px;" type="date" placeholder="Nom">
             </div>
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <div class="uitk-flex uitk-flex-row uitk-flex-justify-content-space-between uitk-flex-wrap uitk-flex-item ">
-                        <div class="uitk-flex uitk-flex-nowrap uitk-switch uitk-checkbox">
-                                    <input type="checkbox" id="loginFormRememberMeCheck" name="rememberMe" class="uitk-flex-item uitk-flex-shrink-0 replay-reveal" value="">
-                                    <span aria-hidden="true" class="uitk-flex-item uitk-flex-shrink-0 uitk-switch-control"></span>
-                                    <div class="uitk-flex-item uitk-flex-grow-1 uitk-switch-content">
-                                    <label class="uitk-checkbox-switch-label uitk-switch-label" for="loginFormRememberMeCheck">Rester connecté</label>
-                            </div>
-                         </div>
-                     </div>
-                </div>
+            <div class="form-group">
+                  <input type="email" class="form-control" style="height: 40px; width: 700px;" type="date"" placeholder="Email">
             </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p>
-                        J'ai pris connaissance et j'accepte la politique de confidentialité.
-                        En validant ce formulaire, vous consentez à ce que vos données personnelles soient 
-                        traitées par Le nom du cabinet responsable du traitement, pour la gestion et le suivi de 
-                        votre demande de contact. À ces fins les champs visés par un astérisque sont obligatoires. Pour en savoir plus sur vos droits ainsi que nos traitements et pratiques en matière de 
-                        données personnelles, cliquez sur notre politique de confidentialité.
-                    </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <button class="btn btn-primary">
-                              Envoyer
-                        </button>
-                    </div>
-                </div>
-                <div class="row">
-                 <div class="row">
-                    <div class="col-lg-12 text-light">
-                        <marquee behavior="" direction=""><i>Contacter Nous</i></marquee>
-                    </div>
-                </div>
-              <hr>
-           </div> 
-           
-           <?php require "comptenent/footer.php"; ?>      
+            <div class="form-group">
+                   <input type="text" class="form-control"style="height: 200px; width: 700px;" type="date" placeholder="Message">
+            </div>
+           <button type="submit" class="btn btn-primary"> Envoyer</button>
+         </form>
+        </div>
+    </div>
+            <hr>
+          <div class="row">
+            <div class="col-lg-12">
+            <?php require "comptenent/footer.php"; ?>   
+            </div>
+
+          </div>   
         </div>
     <script src="public/js/bootstrap.js"></script>
      <script src="public/jquery/jquery.js"></script>

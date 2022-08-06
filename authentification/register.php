@@ -50,32 +50,6 @@
                     </form>
                </div>
                   </div>
-                 <div class="row">
-            <div class="col-lg-12">
-                <div class="uitk-flex uitk-flex-row uitk-flex-justify-content-space-between uitk-flex-wrap uitk-flex-item ">
-                    <div class="uitk-flex uitk-flex-nowrap uitk-switch uitk-checkbox">
-                                <input type="checkbox" id="loginFormRememberMeCheck" name="rememberMe" class="uitk-flex-item uitk-flex-shrink-0 replay-reveal" value="">
-                                <span aria-hidden="true" class="uitk-flex-item uitk-flex-shrink-0 uitk-switch-control"></span>
-                                <div class="uitk-flex-item uitk-flex-grow-1 uitk-switch-content">
-                                <label class="uitk-checkbox-switch-label uitk-switch-label" for="loginFormRememberMeCheck">Rester connecté</label>
-                        </div>
-                     </div>
-                 </div>
-            </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                      <i>
-                          <p>
-                              En me connectant, j’accepte 
-                              les conditions
-                              générales d’utilisation et la 
-                              déclaration sur la protection des
-                              données de MULTI-SAVEUR.com.
-                          </p>
-                      </i>
-                  </div>
-               </div>
                   <div class="row">
                     <div class="col-lg-12 text-center">
                         <form action="">
